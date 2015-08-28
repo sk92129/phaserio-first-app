@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: firstphaserioapp
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.seankang.phaserio
+Build-Jdk: 1.7.0_67
+Built-By: sean.kang
+Created-By: Maven Integration for Eclipse
+
